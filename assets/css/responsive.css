@@ -1,0 +1,42 @@
+@media only screen and (max-width: 992px) {
+  /* .slide-text > h2 {
+    font-size: 20px;
+  } */
+
+  .slide .slide-text {
+    margin: 4rem auto;
+  }
+
+  .slide span {
+    font-size: 1.4rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .slide .slide-text > h2 {
+    font-size: 2.6rem;
+    margin: 5rem auto;
+  }
+
+  /* .button {
+    background-color: red;
+  } */
+
+  .slide-text > a.button {
+    width: 80%;
+    padding: 1rem;
+    font-size: 1.4rem;
+  }
+
+  button.sides {
+    height: 4.5rem;
+    width: 4.5rem;
+  }
+
+  .left-side {
+    left: 10%;
+  }
+
+  .right-side {
+    right: 10%;
+  }
+}
